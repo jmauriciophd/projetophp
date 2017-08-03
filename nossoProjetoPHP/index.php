@@ -12,6 +12,8 @@ and open the template in the editor.
     <body>
         <?php
          echo "Hello Word";
+         
         ?>
+        <h1>Teste de comite em php</h1>
     </body>
 </html>
